@@ -1,5 +1,5 @@
 ## Need for this shell script
-  The application I worked on was quite modular. It has 10+ directories (and growing) that requires installation of node modules on each directory, everytime the build tool is updated and everytime the application is newly cloned from the repository. To save the time of developers in my team I came up with this script.
+  The application I worked on in Zoho was quite modular. It has 10+ directories (and growing) that requires installation of node modules on each directory, everytime the build tool is updated and everytime the application is newly cloned from the repository. To save the time of developers in my team I came up with this script.
  
 ## Working
 * In the `dir_path` variable substitute the absolute path of the app directory
